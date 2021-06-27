@@ -6,7 +6,8 @@ body{
 .container{
     width: 80%;
     margin: auto;
-    margin-top: 75px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 .top-container{
